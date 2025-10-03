@@ -4,8 +4,10 @@ Projects related to training in the York Solutions Emerging Talent Program betwe
 ### ERD
 [view the erd](https://dbdesigner.page.link/n5oE6BfTfrefL7bj6)
 
-## Instalation
-1. pip3 install -r requirements.txt
+## Installation
+1. `pip3 install -r requirements.txt`
+2. `chmod +x setup.sh`
+3. `./setup.sh`
 
 ## Mini Data Warehouse Project: Online Retail Sales Analytics
 ### Project Overview
