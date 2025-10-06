@@ -1,7 +1,7 @@
 # york-training-2025
 Projects related to training in the York Solutions Emerging Talent Program between August and November 2025.
 
-### ERD
+### ERD Snowflake Design
 [view the erd](https://dbdesigner.page.link/n5oE6BfTfrefL7bj6)
 
 ## Installation
