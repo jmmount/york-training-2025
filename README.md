@@ -7,9 +7,9 @@ An OLTP to OLAP for data analysis that cleans, transforms and integrates the dat
 ## Installation
 1. Activate the virtual environment in Jupyter Notebook
 2. `pip3 install -r requirements.txt`
-2. `chmod +x setup.sh` to allow the shell scripts to run
-3. `./setup.sh` to run the shell scripts
-4. `docker-compose up -d` to run the docker container in detached mode
+3. `chmod +x setup.sh` to allow the shell scripts to run
+4. `./setup.sh` to run the shell scripts
+5. `docker-compose up -d` to run the docker container in detached mode
 
 ## How to run the project
 Run the Jupyter Notebook Codeblocks from the modularized files in the following order:

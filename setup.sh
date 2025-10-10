@@ -4,7 +4,7 @@ DATA_DIR="data"
 echo "Installing required Python packages"
 pip install pandas SQLAlchemy python psycopg2-binary
 
-if [ $?-eq0 ]; then
+if [ $? -eq 0 ]; then
   echo "Packages successfully installed!"
   else
     echo "Package installation failed."
