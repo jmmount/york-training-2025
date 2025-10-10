@@ -11,7 +11,6 @@ if [ $?-eq0 ]; then
 fi
 
 mkdir -p "$DATA_DIR/raw"
-mkdir -p "$DATA_DIR/processed"
 
 if [ $? -eq 0 ]; then
   echo "Data directories installed."
